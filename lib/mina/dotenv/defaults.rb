@@ -1,1 +1,1 @@
-set :dotenv_location, '.env'
+set :dotenv_location, '.env.production'
