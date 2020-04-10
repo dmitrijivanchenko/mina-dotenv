@@ -25,5 +25,5 @@ namespace :dotenv do
 end
 
 def remote_dotenv_path
-  "#{fetch(:deploy_to)}/#{fetch(:shared_path)}/.env.production"
+  "/.env.production"
 end
